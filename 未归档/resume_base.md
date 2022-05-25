@@ -53,6 +53,3 @@
 
 1. 技术热情高，终生学习实践者，期望在技术领域深耕，不断打磨技术手艺。
 2. 工作多年之后深知软技能也是职场必备技能，会下意识均衡发展自己软硬技能，提升自身综合实力。
-3. 个人近照
-
-<img src="/Users/zjunothing/Library/Application Support/typora-user-images/image-20220508140127287.png" alt="image-20220508140127287 " style="zoom:50%;"  />
