@@ -1,6 +1,6 @@
 # HTTP
 
-## (01)、HTTPS 相关
+## 一）HTTPS 相关
 
 HTTPS = HTTP + SSL/TLS
 
@@ -40,3 +40,15 @@ HTTPS = HTTP + SSL/TLS
    4. 阮一峰翻译的数字签名和数字证书：https://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html
 
    
+
+
+
+## 二）长链接短连接
+
+比较简单，基于TCP的长连接和短连接。  
+
+* 长连接：建立TCP连接 -> 传输数据 ->。。。。 ->传输数据 -> 关闭连接
+
+* 短连接：建立TCP连接 -> 传输数据 -> 关闭连接； 建立TCP连接 -> 传输数据 -> 关闭连接；
+
+参考：https://www.cnblogs.com/0201zcr/p/4694945.html
