@@ -25,3 +25,13 @@
    ```
 
    
+
+4. ``` bash
+   # vim 打开文件后，回到上一层
+   :rew  # stand for rewind
+   :e .  # edit current。  跳到当前打开文件的目录树
+   
+   
+   ```
+
+5. 

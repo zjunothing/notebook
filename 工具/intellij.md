@@ -1,6 +1,8 @@
 # IntelliJ
 
-### keymap
+
+
+## 1. keymap
 
 个人快捷键定制。 
 
@@ -21,3 +23,22 @@
 | 自定义 |                 |                                                  |
 |        | cmd + shift + s | select opened file                               |
 |        |                 |                                                  |
+
+
+
+## 2. postfix complection
+
+![postfix_add1.jpg](https://ata2-img.oss-cn-zhangjiakou.aliyuncs.com/70590776ca3f4c0ca58703708083865d.jpg)
+
+
+
+
+
+## 3. 插件
+
+1. sequence diagram
+2. rainbow bracket
+3. maven search
+
+
+
